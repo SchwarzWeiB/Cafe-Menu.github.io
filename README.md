@@ -1,2 +1,2 @@
-# Cafe-Menu.github.io
+# Cafe-Menu
 Örnek menü Tasarımı
